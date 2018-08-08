@@ -31,5 +31,9 @@
 
 #### 4. Reactjs
 1. 《the-road-to-learn-react-chinese》: [https://pan.baidu.com/s/1o9DEUcq](https://pan.baidu.com/s/1o9DEUcq)
+2. 《	
+fullstack-react-book-sample-chapter-writing-your-first-react-app》: [http://on7q1l1r0.bkt.clouddn.com/fullstack-react-book-sample-chapter-writing-your-first-react-app.pdf](http://on7q1l1r0.bkt.clouddn.com/fullstack-react-book-sample-chapter-writing-your-first-react-app.pdf)
+3. 《React设计模式与最佳实践》: [http://on7q1l1r0.bkt.clouddn.com/react.pdf](http://on7q1l1r0.bkt.clouddn.com/react.pdf)
+4. 《深入REACT技术栈》: [http://on7q1l1r0.bkt.clouddn.com/%E6%B7%B1%E5%85%A5REACT%E6%8A%80%E6%9C%AF%E6%A0%88%20,%E9%99%88%E5%B1%B9%E8%91%97.pdf](http://on7q1l1r0.bkt.clouddn.com/%E6%B7%B1%E5%85%A5REACT%E6%8A%80%E6%9C%AF%E6%A0%88%20,%E9%99%88%E5%B1%B9%E8%91%97.pdf)
 
 欢迎补充
