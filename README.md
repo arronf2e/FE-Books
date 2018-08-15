@@ -1,6 +1,6 @@
 ## FE-Books  
 
-前端书籍pdf整理，关于前端框架的就不列出了，感觉看官方文档更好，长期更新
+前端书籍pdf整理，长期更新
 ### 1.  Javascript	
 
 1. 《JavaScript DOM编程艺术》(第二版) : [http://pan.baidu.com/s/1kUH7fan](http://pan.baidu.com/s/1kUH7fan)
