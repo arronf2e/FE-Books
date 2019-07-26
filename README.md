@@ -36,4 +36,9 @@ fullstack-react-book-sample-chapter-writing-your-first-react-app》: [http://on7
 3. 《React设计模式与最佳实践》: [http://on7q1l1r0.bkt.clouddn.com/react.pdf](http://on7q1l1r0.bkt.clouddn.com/react.pdf)
 4. 《深入REACT技术栈》: [http://on7q1l1r0.bkt.clouddn.com/%E6%B7%B1%E5%85%A5REACT%E6%8A%80%E6%9C%AF%E6%A0%88%20,%E9%99%88%E5%B1%B9%E8%91%97.pdf](http://on7q1l1r0.bkt.clouddn.com/%E6%B7%B1%E5%85%A5REACT%E6%8A%80%E6%9C%AF%E6%A0%88%20,%E9%99%88%E5%B1%B9%E8%91%97.pdf)
 
+#### 5. Angular
+
+1. 《AngularJS权威教程》: [链接: https://pan.baidu.com/s/1lIYgGDt-83GMqpA13_t60g 提取码: 6hbj](链接: https://pan.baidu.com/s/1lIYgGDt-83GMqpA13_t60g 提取码: 6hbj)
+2. 《AngularJS入门教程》: [链接: https://pan.baidu.com/s/1MeQ-Aqi6E5r-yOHzLTPFYg 提取码: xsfq 复制这段内容后打开百度网盘手机App，操作更方便哦](链接: https://pan.baidu.com/s/1MeQ-Aqi6E5r-yOHzLTPFYg 提取码: xsfq 复制这段内容后打开百度网盘手机App，操作更方便哦)
+
 欢迎补充
