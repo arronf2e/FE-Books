@@ -39,6 +39,7 @@ fullstack-react-book-sample-chapter-writing-your-first-react-app》: [http://on7
 #### 5. Angular
 
 1. 《AngularJS权威教程》: 链接: https://pan.baidu.com/s/1lIYgGDt-83GMqpA13_t60g 提取码: 6hbj
-2. 《AngularJS入门教程》: 链接: https://pan.baidu.com/s/1MeQ-Aqi6E5r-yOHzLTPFYg 提取码: xsfq 复制这段内容后打开百度网盘手机App，操作更方便哦
+2. 《AngularJS入门教程》: 链接: https://pan.baidu.com/s/1MeQ-Aqi6E5r-yOHzLTPFYg 提取码: xsfq 
+
 
 欢迎补充
